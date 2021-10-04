@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/cpuScheduler.h
+sys/types.h
+-
+processQueue.h
+../inc/processQueue.h
+
+../inc/processQueue.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/src/cpuScheduler.c
+cpuScheduler.h
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/src/cpuScheduler.h
+

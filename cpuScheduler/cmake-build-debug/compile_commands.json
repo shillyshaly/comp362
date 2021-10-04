@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/inc   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/cpuScheduler.dir/src/cpuScheduler.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/src/cpuScheduler.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/src/cpuScheduler.c"
+},
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/inc   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/cpuScheduler.dir/src/processQueue.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/src/processQueue.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab06/cpuScheduler/src/processQueue.c"
+}
+]
