@@ -1,0 +1,165 @@
+Script started on 2021-09-26 22:08:26-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="137" LINES="30"]
+[?2004h]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# ls
+[?2004lbreak.txt  [0m[01;34mbuild[0m  [01;32mCMakeLists.txt[0m  in2.txt  in3.txt  [01;32min.txt[0m  [01;32mmatrixMult[0m  matrixMult.c  [01;32mmatrixMult.h[0m  typescript.txt
+[?2004h]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# ./matrixMult in.txt 
+[?2004l
+MATRIX A1
+1      4      
+2      5      
+3      6      
+
+MATRIX B1
+8      7      6      
+5      4      3      
+
+MATRIX A1 x B1
+28      23      18      
+41      34      27      
+54      45      36      
+
+MATRIX A2
+1      5      
+2      6      
+3      7      
+4      8      
+
+MATRIX B2
+9      8      7      6      5      
+4      3      2      1      0      
+
+MATRIX A2 x B2
+29      23      17      11      5      
+42      34      26      18      10      
+55      45      35      25      15      
+68      56      44      32      20      
+[?2004h]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# ./matrixMult in2.txt 
+[?2004l
+MATRIX A1
+1      2      
+3      4      
+5      6      
+7      8      
+9      0      
+
+MATRIX B1
+4      3      2      1      
+9      8      7      6      
+
+MATRIX A1 x B1
+22      19      16      13      
+48      41      34      27      
+74      63      52      41      
+100      85      70      55      
+36      27      18      9      
+
+MATRIX A2
+4      5      
+
+MATRIX B2
+6      4      9      
+4      3      5      
+
+MATRIX A2 x B2
+44      31      61      
+[?2004h]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# ./matrixMult in3.txt [K[K[K[K[K[K[K[Kbreak.txt 
+[?2004l
+MATRIX A1
+1      5      5      
+
+MATRIX B1
+3      4      4      5      8      
+1      9      5      4      4      
+4      4      4      4      4      
+
+MATRIX A1 x B1
+28      69      49      45      48      
+
+MATRIX A2
+4      4      4      4      
+4      4      4      4      
+4      4      4      4      
+4      4      4      4      
+
+MATRIX B2
+4      4      4      4      
+4      4      4      4      
+0      0      0      0      
+0      0      0      0      
+
+MATRIX A2 x B2
+32      32      32      32      
+32      32      32      32      
+32      32      32      32      
+32      32      32      32      
+[?2004h]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# ./na[K[KmatrixMult in3.txt 
+[?2004l
+MATRIX A1
+3      3      3      
+3      3      3      
+3      3      3      
+
+MATRIX B1
+3      3      3      
+3      3      3      
+3      3      3      
+
+MATRIX A1 x B1
+27      27      27      
+27      27      27      
+27      27      27      
+
+MATRIX A2
+9      8      7      
+7      6      5      
+5      4      3      
+3      2      1      
+
+MATRIX B2
+7      8      
+4      5      
+1      2      
+
+MATRIX A2 x B2
+102      126      
+78      96      
+54      66      
+30      36      
+[?2004h]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# ./ama[K[K[KmatrixMult
+[?2004l^C
+[?2004h]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# [H[2J]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# ma[K[K.'[K/matrixMult in
+in2.txt  in3.txt  in.txt   
+]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# ./matrixMult in3[Kw[K.txt 
+[?2004l
+MATRIX A1
+1      4      
+2      5      
+3      6      
+
+MATRIX B1
+8      7      6      
+5      4      3      
+
+MATRIX A1 x B1
+28      23      18      
+41      34      27      
+54      45      36      
+
+MATRIX A2
+1      5      
+2      6      
+3      7      
+4      8      
+
+MATRIX B2
+9      8      7      6      5      
+4      3      2      1      0      
+
+MATRIX A2 x B2
+29      23      17      11      5      
+42      34      26      18      10      
+55      45      35      25      15      
+68      56      44      32      20      
+[?2004h]0;root@hal-9000: /home/notdave/comp362/HernandezJamieLab05/matrixMultroot@hal-9000:/home/notdave/comp362/HernandezJamieLab05/matrixMult# exit
+[?2004lexit
+
+Script done on 2021-09-26 22:11:23-07:00 [COMMAND_EXIT_CODE="0"]

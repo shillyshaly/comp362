@@ -1,0 +1,3 @@
+/mnt/c/Users/litox/Desktop/matrixMult/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/litox/Desktop/matrixMult/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/litox/Desktop/matrixMult/build/CMakeFiles/matrixMult.dir

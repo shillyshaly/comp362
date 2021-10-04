@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/litox/CLionProjects/matrixMult/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/matrixMult.dir/matrixMult.c.o   -c /mnt/c/Users/litox/CLionProjects/matrixMult/matrixMult.c",
+  "file": "/mnt/c/Users/litox/CLionProjects/matrixMult/matrixMult.c"
+}
+]

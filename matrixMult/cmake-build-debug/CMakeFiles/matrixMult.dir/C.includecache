@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/litox/CLionProjects/matrixMult/matrixMult.c
+matrixMult.h
+/mnt/c/Users/litox/CLionProjects/matrixMult/matrixMult.h
+
+/mnt/c/Users/litox/CLionProjects/matrixMult/matrixMult.h
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+
