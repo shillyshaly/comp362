@@ -1,0 +1,1785 @@
+Script started on 2021-10-11 19:00:27-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="121" LINES="24"]
+[?2004h]0;notdave@hal-9000: ~/comp362/HernandezJamieLab07/build[01;32mnotdave@hal-9000[00m:[01;34m~/comp362/HernandezJamieLab07/build[00m$ ./bub[K[K[K[K[K./bin/philosophers 5 6
+[?2004lStart a dinner for 5 diners
+Philsopher no. 1 sits at the table.
+Philsopher no. 2 sits at the table.
+Philsopher no. 3 sits at the table.
+Philsopher no. 4 sits at the table.
+Philsopher no. 0 sits at the table.
+Philsopher no. 4 gets hungry for the 1 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 1 gets hungry for the 1 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 3 gets hungry for the 1 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 0 gets hungry for the 1 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 2 gets hungry for the 1 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 4 tries to grab chopstic 0
+Philsopher no. 4 grabbed chopstick 0
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 1
+Philsopher no. 1 gets hungry for the 2 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 1
+Philsopher no. 3 gets hungry for the 2 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 1
+Philsopher no. 0 gets hungry for the 2 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 1
+Philsopher no. 2 gets hungry for the 2 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 4 has returned chopstick 0
+Philsopher no. 4 finished turn 1
+Philsopher no. 4 gets hungry for the 2 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 4 tries to grab chopstic 0
+Philsopher no. 4 grabbed chopstick 0
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 2
+Philsopher no. 1 gets hungry for the 3 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 4 has returned chopstick 0
+Philsopher no. 4 finished turn 2
+Philsopher no. 4 gets hungry for the 3 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 3
+Philsopher no. 1 gets hungry for the 4 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 2
+Philsopher no. 0 gets hungry for the 3 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 2
+Philsopher no. 3 gets hungry for the 3 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 4 tries to grab chopstic 0
+Philsopher no. 4 grabbed chopstick 0
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 2
+Philsopher no. 2 gets hungry for the 3 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 4 has returned chopstick 0
+Philsopher no. 4 finished turn 3
+Philsopher no. 4 gets hungry for the 4 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 3
+Philsopher no. 2 gets hungry for the 4 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 4 tries to grab chopstic 0
+Philsopher no. 4 grabbed chopstick 0
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 3
+Philsopher no. 0 gets hungry for the 4 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 3
+Philsopher no. 3 gets hungry for the 4 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 4
+Philsopher no. 1 gets hungry for the 5 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 4 has returned chopstick 0
+Philsopher no. 4 finished turn 4
+Philsopher no. 4 gets hungry for the 5 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 4
+Philsopher no. 0 gets hungry for the 5 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 4
+Philsopher no. 3 gets hungry for the 5 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 4
+Philsopher no. 2 gets hungry for the 5 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 4 tries to grab chopstic 0
+Philsopher no. 4 grabbed chopstick 0
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 5
+Philsopher no. 3 gets hungry for the 6 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 5
+Philsopher no. 2 gets hungry for the 6 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 4 has returned chopstick 0
+Philsopher no. 4 finished turn 5
+Philsopher no. 4 gets hungry for the 6 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 5
+Philsopher no. 1 gets hungry for the 6 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 4 tries to grab chopstic 0
+Philsopher no. 4 grabbed chopstick 0
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 6
+>>>>>> Philsopher no. 3 finished meal. <<<<<<
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 5
+Philsopher no. 0 gets hungry for the 6 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 6
+>>>>>> Philsopher no. 2 finished meal. <<<<<<
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 6
+>>>>>> Philsopher no. 1 finished meal. <<<<<<
+Philsopher no. 4 has returned chopstick 0
+Philsopher no. 4 finished turn 6
+>>>>>> Philsopher no. 4 finished meal. <<<<<<
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 6
+>>>>>> Philsopher no. 0 finished meal. <<<<<<
+Dinner is no more.
+[?2004h]0;notdave@hal-9000: ~/comp362/HernandezJamieLab07/build[01;32mnotdave@hal-9000[00m:[01;34m~/comp362/HernandezJamieLab07/build[00m$ ./bin/philosophers 5 6[K[K[K12 12
+[?2004lStart a dinner for 12 diners
+Philsopher no. 1 sits at the table.
+Philsopher no. 2 sits at the table.
+Philsopher no. 3 sits at the table.
+Philsopher no. 4 sits at the table.
+Philsopher no. 5 sits at the table.
+Philsopher no. 6 sits at the table.
+Philsopher no. 7 sits at the table.
+Philsopher no. 8 sits at the table.
+Philsopher no. 9 sits at the table.
+Philsopher no. 10 sits at the table.
+Philsopher no. 11 sits at the table.
+Philsopher no. 0 sits at the table.
+Philsopher no. 2 gets hungry for the 1 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 8 gets hungry for the 1 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 5 gets hungry for the 1 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 7 gets hungry for the 1 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 9 gets hungry for the 1 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 11 gets hungry for the 1 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 0 gets hungry for the 1 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 3 gets hungry for the 1 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 4 gets hungry for the 1 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 1 gets hungry for the 1 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 6 gets hungry for the 1 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 10 gets hungry for the 1 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 1
+Philsopher no. 1 gets hungry for the 2 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 1
+Philsopher no. 5 gets hungry for the 2 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 1
+Philsopher no. 7 gets hungry for the 2 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 1
+Philsopher no. 9 gets hungry for the 2 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 2
+Philsopher no. 5 gets hungry for the 3 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 1
+Philsopher no. 8 gets hungry for the 2 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 1
+Philsopher no. 10 gets hungry for the 2 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 1
+Philsopher no. 3 gets hungry for the 2 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 1
+Philsopher no. 0 gets hungry for the 2 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 1
+Philsopher no. 6 gets hungry for the 2 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 1
+Philsopher no. 11 gets hungry for the 2 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 2
+Philsopher no. 1 gets hungry for the 3 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 1
+Philsopher no. 2 gets hungry for the 2 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 1
+Philsopher no. 4 gets hungry for the 2 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 2
+Philsopher no. 8 gets hungry for the 3 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 2
+Philsopher no. 0 gets hungry for the 3 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 2
+Philsopher no. 4 gets hungry for the 3 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 3
+Philsopher no. 1 gets hungry for the 4 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 3
+Philsopher no. 8 gets hungry for the 4 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 2
+Philsopher no. 7 gets hungry for the 3 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 2
+Philsopher no. 3 gets hungry for the 3 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 2
+Philsopher no. 11 gets hungry for the 3 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 3
+Philsopher no. 4 gets hungry for the 4 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 3
+Philsopher no. 5 gets hungry for the 4 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 2
+Philsopher no. 10 gets hungry for the 3 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 2
+Philsopher no. 9 gets hungry for the 3 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 2
+Philsopher no. 6 gets hungry for the 3 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 2
+Philsopher no. 2 gets hungry for the 3 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 3
+Philsopher no. 0 gets hungry for the 4 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 4
+Philsopher no. 5 gets hungry for the 5 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 3
+Philsopher no. 11 gets hungry for the 4 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 4
+Philsopher no. 0 gets hungry for the 5 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 4
+Philsopher no. 1 gets hungry for the 5 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 3
+Philsopher no. 6 gets hungry for the 4 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 3
+Philsopher no. 7 gets hungry for the 4 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 4
+Philsopher no. 11 gets hungry for the 5 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 3
+Philsopher no. 3 gets hungry for the 4 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 4
+Philsopher no. 4 gets hungry for the 5 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 4
+Philsopher no. 8 gets hungry for the 5 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 3
+Philsopher no. 10 gets hungry for the 4 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 3
+Philsopher no. 9 gets hungry for the 4 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 5
+Philsopher no. 5 gets hungry for the 6 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 5
+Philsopher no. 0 gets hungry for the 6 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 3
+Philsopher no. 2 gets hungry for the 4 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 4
+Philsopher no. 3 gets hungry for the 5 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 4
+Philsopher no. 2 gets hungry for the 5 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 4
+Philsopher no. 6 gets hungry for the 5 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 4
+Philsopher no. 7 gets hungry for the 5 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 6
+Philsopher no. 0 gets hungry for the 7 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 5
+Philsopher no. 1 gets hungry for the 6 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 5
+Philsopher no. 11 gets hungry for the 6 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 4
+Philsopher no. 10 gets hungry for the 5 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 5
+Philsopher no. 4 gets hungry for the 6 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 6
+Philsopher no. 5 gets hungry for the 7 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 5
+Philsopher no. 8 gets hungry for the 6 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 5
+Philsopher no. 2 gets hungry for the 6 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 4
+Philsopher no. 9 gets hungry for the 5 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 5
+Philsopher no. 6 gets hungry for the 6 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 7
+Philsopher no. 5 gets hungry for the 8 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 5
+Philsopher no. 3 gets hungry for the 6 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 5
+Philsopher no. 7 gets hungry for the 6 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 6
+Philsopher no. 4 gets hungry for the 7 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 5
+Philsopher no. 10 gets hungry for the 6 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 6
+Philsopher no. 11 gets hungry for the 7 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 7
+Philsopher no. 0 gets hungry for the 8 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 6
+Philsopher no. 3 gets hungry for the 7 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 8
+Philsopher no. 5 gets hungry for the 9 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 6
+Philsopher no. 1 gets hungry for the 7 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 6
+Philsopher no. 2 gets hungry for the 7 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 6
+Philsopher no. 6 gets hungry for the 7 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 6
+Philsopher no. 7 gets hungry for the 7 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 6
+Philsopher no. 8 gets hungry for the 7 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 8
+Philsopher no. 0 gets hungry for the 9 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 7
+Philsopher no. 3 gets hungry for the 8 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 9
+Philsopher no. 5 gets hungry for the 10 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 7
+Philsopher no. 11 gets hungry for the 8 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 5
+Philsopher no. 9 gets hungry for the 6 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 7
+Philsopher no. 4 gets hungry for the 8 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 7
+Philsopher no. 2 gets hungry for the 8 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 7
+Philsopher no. 7 gets hungry for the 8 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 7
+Philsopher no. 8 gets hungry for the 8 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 6
+Philsopher no. 10 gets hungry for the 7 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 8
+Philsopher no. 3 gets hungry for the 9 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 7
+Philsopher no. 1 gets hungry for the 8 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 9
+Philsopher no. 0 gets hungry for the 10 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 7
+Philsopher no. 6 gets hungry for the 8 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 9
+Philsopher no. 3 gets hungry for the 10 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 8
+Philsopher no. 2 gets hungry for the 9 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 8
+Philsopher no. 4 gets hungry for the 9 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 6
+Philsopher no. 9 gets hungry for the 7 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 10
+Philsopher no. 5 gets hungry for the 11 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 8
+Philsopher no. 11 gets hungry for the 9 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 8
+Philsopher no. 7 gets hungry for the 9 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 8
+Philsopher no. 1 gets hungry for the 9 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 9
+Philsopher no. 4 gets hungry for the 10 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 8
+Philsopher no. 8 gets hungry for the 9 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 7
+Philsopher no. 10 gets hungry for the 8 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 7
+Philsopher no. 9 gets hungry for the 8 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 9
+Philsopher no. 2 gets hungry for the 10 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 10
+Philsopher no. 4 gets hungry for the 11 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 11
+Philsopher no. 5 gets hungry for the 12 time!
+Philsopher no. 5 tries to grab chopstick 5
+Philsopher no. 5 has grabbed chopstick 5
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 8
+Philsopher no. 6 gets hungry for the 9 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 10
+Philsopher no. 0 gets hungry for the 11 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 5 tries to grab chopstic 6
+Philsopher no. 5 grabbed chopstick 6
+Philsopher no. 5 eating
+Philsopher no. 5 stopped eating
+Philsopher no. 5 has returned chopstick 5
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 9
+Philsopher no. 1 gets hungry for the 10 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 10
+Philsopher no. 3 gets hungry for the 11 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 9
+Philsopher no. 11 gets hungry for the 10 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 5 has returned chopstick 6
+Philsopher no. 5 finished turn 12
+>>>>>> Philsopher no. 5 finished meal. <<<<<<
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 8
+Philsopher no. 9 gets hungry for the 9 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 9
+Philsopher no. 7 gets hungry for the 10 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 11
+Philsopher no. 4 gets hungry for the 12 time!
+Philsopher no. 4 tries to grab chopstick 4
+Philsopher no. 4 has grabbed chopstick 4
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 11
+Philsopher no. 0 gets hungry for the 12 time!
+Philsopher no. 0 tries to grab chopstick 0
+Philsopher no. 0 has grabbed chopstick 0
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 8
+Philsopher no. 10 gets hungry for the 9 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 11
+Philsopher no. 3 gets hungry for the 12 time!
+Philsopher no. 3 tries to grab chopstick 3
+Philsopher no. 3 has grabbed chopstick 3
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 10
+Philsopher no. 11 gets hungry for the 11 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 0 tries to grab chopstic 1
+Philsopher no. 0 grabbed chopstick 1
+Philsopher no. 0 eating
+Philsopher no. 0 stopped eating
+Philsopher no. 0 has returned chopstick 0
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 9
+Philsopher no. 8 gets hungry for the 10 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 9
+Philsopher no. 6 gets hungry for the 10 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 4 tries to grab chopstic 5
+Philsopher no. 4 grabbed chopstick 5
+Philsopher no. 4 eating
+Philsopher no. 4 stopped eating
+Philsopher no. 4 has returned chopstick 4
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 10
+Philsopher no. 2 gets hungry for the 11 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 3 tries to grab chopstic 4
+Philsopher no. 3 grabbed chopstick 4
+Philsopher no. 3 eating
+Philsopher no. 3 stopped eating
+Philsopher no. 3 has returned chopstick 3
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 10
+Philsopher no. 6 gets hungry for the 11 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 10
+Philsopher no. 1 gets hungry for the 11 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 10
+Philsopher no. 8 gets hungry for the 11 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 0 has returned chopstick 1
+Philsopher no. 0 finished turn 12
+>>>>>> Philsopher no. 0 finished meal. <<<<<<
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 9
+Philsopher no. 9 gets hungry for the 10 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 9
+Philsopher no. 10 gets hungry for the 10 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 4 has returned chopstick 5
+Philsopher no. 4 finished turn 12
+>>>>>> Philsopher no. 4 finished meal. <<<<<<
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 10
+Philsopher no. 7 gets hungry for the 11 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 11
+Philsopher no. 11 gets hungry for the 12 time!
+Philsopher no. 11 tries to grab chopstick 11
+Philsopher no. 11 has grabbed chopstick 11
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 3 has returned chopstick 4
+Philsopher no. 3 finished turn 12
+>>>>>> Philsopher no. 3 finished meal. <<<<<<
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 11
+Philsopher no. 2 gets hungry for the 12 time!
+Philsopher no. 2 tries to grab chopstick 2
+Philsopher no. 2 has grabbed chopstick 2
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 11
+Philsopher no. 8 gets hungry for the 12 time!
+Philsopher no. 8 tries to grab chopstick 8
+Philsopher no. 8 has grabbed chopstick 8
+Philsopher no. 11 tries to grab chopstic 0
+Philsopher no. 11 grabbed chopstick 0
+Philsopher no. 11 eating
+Philsopher no. 11 stopped eating
+Philsopher no. 11 has returned chopstick 11
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 11
+Philsopher no. 1 gets hungry for the 12 time!
+Philsopher no. 1 tries to grab chopstick 1
+Philsopher no. 1 has grabbed chopstick 1
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 2 tries to grab chopstic 3
+Philsopher no. 2 grabbed chopstick 3
+Philsopher no. 2 eating
+Philsopher no. 2 stopped eating
+Philsopher no. 2 has returned chopstick 2
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 10
+Philsopher no. 10 gets hungry for the 11 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 8 tries to grab chopstic 9
+Philsopher no. 8 grabbed chopstick 9
+Philsopher no. 8 eating
+Philsopher no. 8 stopped eating
+Philsopher no. 8 has returned chopstick 8
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 10
+Philsopher no. 9 gets hungry for the 11 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 1 tries to grab chopstic 2
+Philsopher no. 1 grabbed chopstick 2
+Philsopher no. 1 eating
+Philsopher no. 1 stopped eating
+Philsopher no. 1 has returned chopstick 1
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 11
+Philsopher no. 6 gets hungry for the 12 time!
+Philsopher no. 6 tries to grab chopstick 6
+Philsopher no. 6 has grabbed chopstick 6
+Philsopher no. 11 has returned chopstick 0
+Philsopher no. 11 finished turn 12
+>>>>>> Philsopher no. 11 finished meal. <<<<<<
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 11
+Philsopher no. 7 gets hungry for the 12 time!
+Philsopher no. 7 tries to grab chopstick 7
+Philsopher no. 7 has grabbed chopstick 7
+Philsopher no. 6 tries to grab chopstic 7
+Philsopher no. 6 grabbed chopstick 7
+Philsopher no. 6 eating
+Philsopher no. 6 stopped eating
+Philsopher no. 6 has returned chopstick 6
+Philsopher no. 7 tries to grab chopstic 8
+Philsopher no. 7 grabbed chopstick 8
+Philsopher no. 7 eating
+Philsopher no. 7 stopped eating
+Philsopher no. 7 has returned chopstick 7
+Philsopher no. 6 has returned chopstick 7
+Philsopher no. 6 finished turn 12
+>>>>>> Philsopher no. 6 finished meal. <<<<<<
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 11
+Philsopher no. 9 gets hungry for the 12 time!
+Philsopher no. 9 tries to grab chopstick 9
+Philsopher no. 9 has grabbed chopstick 9
+Philsopher no. 2 has returned chopstick 3
+Philsopher no. 2 finished turn 12
+>>>>>> Philsopher no. 2 finished meal. <<<<<<
+Philsopher no. 9 tries to grab chopstic 10
+Philsopher no. 9 grabbed chopstick 10
+Philsopher no. 9 eating
+Philsopher no. 9 stopped eating
+Philsopher no. 9 has returned chopstick 9
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 11
+Philsopher no. 10 gets hungry for the 12 time!
+Philsopher no. 10 tries to grab chopstick 10
+Philsopher no. 10 has grabbed chopstick 10
+Philsopher no. 8 has returned chopstick 9
+Philsopher no. 8 finished turn 12
+>>>>>> Philsopher no. 8 finished meal. <<<<<<
+Philsopher no. 1 has returned chopstick 2
+Philsopher no. 1 finished turn 12
+>>>>>> Philsopher no. 1 finished meal. <<<<<<
+Philsopher no. 10 tries to grab chopstic 11
+Philsopher no. 10 grabbed chopstick 11
+Philsopher no. 10 eating
+Philsopher no. 10 stopped eating
+Philsopher no. 10 has returned chopstick 10
+Philsopher no. 7 has returned chopstick 8
+Philsopher no. 7 finished turn 12
+>>>>>> Philsopher no. 7 finished meal. <<<<<<
+Philsopher no. 9 has returned chopstick 10
+Philsopher no. 9 finished turn 12
+>>>>>> Philsopher no. 9 finished meal. <<<<<<
+Philsopher no. 10 has returned chopstick 11
+Philsopher no. 10 finished turn 12
+>>>>>> Philsopher no. 10 finished meal. <<<<<<
+Dinner is no more.
+[?2004h]0;notdave@hal-9000: ~/comp362/HernandezJamieLab07/build[01;32mnotdave@hal-9000[00m:[01;34m~/comp362/HernandezJamieLab07/build[00m$ exit[K[K[K[Kecho[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2021-10-11 19:01:12-07:00 [COMMAND_EXIT_CODE="0"]

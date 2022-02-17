@@ -1,0 +1,3 @@
+/snap/clion/180/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/180/bin/ninja/linux/ninja -G Ninja /home/notdave/Documents/school/comp362/HernandezJamieLab07
+CMake Error: The source directory "/home/notdave/Documents/school/comp362/HernandezJamieLab07" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.
