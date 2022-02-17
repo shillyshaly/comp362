@@ -1,0 +1,3 @@
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build/CMakeFiles/replace.dir

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/replace.dir/src/lruList.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/src/lruList.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/src/lruList.c"
+},
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/replace.dir/src/optArray.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/src/optArray.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/src/optArray.c"
+},
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/replace.dir/src/replace.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/src/replace.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/src/replace.c"
+}
+]

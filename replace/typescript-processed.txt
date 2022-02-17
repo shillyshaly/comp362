@@ -1,0 +1,56 @@
+/**
+* Name: Jamie Hernandez
+* Lab/task: Lab 10
+* Date: 11/1/2021
+**/
+
+Script started on 2021-11-02 12:58:20-07:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+shillyshaly@HAL9000:/mnt/c/Users/litox/Documents/School/./build/bin/replace/4i20/8e/build$ ./build/bin/replace 4 20 8
+
+USING MEMORY WITH 4 FRAMES
+REFERENCE STRING: 0 8 6 7 8 2 3 7 6 4 3 4 6 0 7 2 8 0 1 2
+
+TESTING LRU
+0 ->	0*
+8 ->	8	0*
+6 ->	6	8	0*
+Segmentation fault (core dumped)
+shillyshaly@HAL9000:/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build$ ./bin/replace 1 10 3
+
+USING MEMORY WITH 1 FRAMES
+REFERENCE STRING: 2 2 3 2 1 0 3 2 1 0
+
+TESTING LRU
+2 ->	2*
+2 ->	2<
+Segmentation fault (core dumped)
+shillyshaly@HAL9000:/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build$ ./bin/replace 5 20 13
+
+USING MEMORY WITH 5 FRAMES
+REFERENCE STRING: 9 2 5 1 2 5 8 9 5 12 13 10 7 0 0 5 6 1 0 5
+
+TESTING LRU
+9 ->	9*
+2 ->	2	9*
+5 ->	5	2	9*
+1 ->	1	5	2	9*
+2 ->	2<	2	2	2
+5 ->	5	5	5	5	5*
+8 ->	5	5	5	5	5	5*
+9 ->	5	5	5	5	5	5	5*
+5 ->	5<	5	5	5	5	5	5
+Segmentation fault (core dumped)
+shillyshaly@HAL9000:/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build$ ./bin/replace 4 20 83
+
+USING MEMORY WITH 4 FRAMES
+REFERENCE STRING: 3 4 8 1 2 3 2 1 8 0 4 4 7 8 8 1 1 0 5 3
+
+TESTING LRU
+3 ->	3*
+4 ->	4	3*
+8 ->	8	4	3*
+Segmentation fault (core dumped)
+shillyshaly@HAL9000:/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab10/replace/build$ exit
+exit
+
+Script done on 2021-11-02 13:00:24-07:00 [COMMAND_EXIT_CODE="139"]
