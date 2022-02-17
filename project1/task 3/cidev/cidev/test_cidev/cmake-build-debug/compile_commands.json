@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 3/cidev/cidev/test_cidev/cmake-build-debug",
+  "command": "/usr/bin/cc -D__DEBUG_DISK -D__DEBUG_TIMER   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   -std=gnu11 -o CMakeFiles/test_cidev.dir/test_cidev.c.o   -c \"/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 3/cidev/cidev/test_cidev/test_cidev.c\"",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 3/cidev/cidev/test_cidev/test_cidev.c"
+}
+]

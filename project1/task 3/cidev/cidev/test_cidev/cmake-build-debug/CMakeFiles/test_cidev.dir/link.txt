@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   CMakeFiles/test_cidev.dir/test_cidev.c.o  -o bin/test_cidev  -lrt 
