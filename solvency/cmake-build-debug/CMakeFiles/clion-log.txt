@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/cmake-build-debug

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/arrays.h
+stdio.h
+-
+stdbool.h
+-
+
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/bank.c
+bank.h
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/bank.h
+
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/bank.h
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+ctype.h
+-
+pthread.h
+-
+arrays.h
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/arrays.h
+

@@ -1,0 +1,3 @@
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build/CMakeFiles/solvency.dir

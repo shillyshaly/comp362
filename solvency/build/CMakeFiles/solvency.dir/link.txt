@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG  -rdynamic CMakeFiles/solvency.dir/src/arrays.c.o CMakeFiles/solvency.dir/src/bank.c.o CMakeFiles/solvency.dir/src/solvency.c.o  -o bin/solvency 

@@ -1,0 +1,65 @@
+/**
+* Name: Jamie Hernandez
+* Lab/task: Lab 8
+* Date: 10/18/2021
+**/
+
+Script started on 2021-10-18 21:40:05-07:00 [TERM="xterm-256color" TTY="/dev/tty2" COLUMNS="181" LINES="30"]
+]0;shillyshaly@HAL9000: /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build[01;32mshillyshaly@HAL9000[00m:[01;34m/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build[00m$ sudo cmake ..
+[sudo] password for shillyshaly: 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build
+]0;shillyshaly@HAL9000: /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build[01;32mshillyshaly@HAL9000[00m:[01;34m/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build[00m$ make
+[35m[1mScanning dependencies of target solvency[0m
+[ 25%] [32mBuilding C object CMakeFiles/solvency.dir/src/bank.c.o[0m
+[ 50%] [32m[1mLinking C executable bin/solvency[0m
+[100%] Built target solvency
+]0;shillyshaly@HAL9000: /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build[01;32mshillyshaly@HAL9000[00m:[01;34m/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build[00m$ makesudo cmake ..exit[K./bin/solvency ../in.txt 
+Teller: How may I help you? > bo 0 150 200
+REQUEST: BO
+CLIENT 0: 
+Expected input: Q[UIT] | ST[ATUS] | [BO[RROW] | RE[PAY]] <customer number> <resource #1> <#2> <#3> ...
+Teller: How may I help you? > bo 0 1500  200 300
+REQUEST: BO
+CLIENT 0:  [   150.00  200.00  300.00]
+requested: 150.000000
+allocation: 150.000000
+available: 1350.000000
+need: 550.000000
+
+going to run safety check now...
+
+requested: 200.000000
+allocation: 200.000000
+available: 700.000000
+need: 300.000000
+
+going to run safety check now...
+
+requested: 300.000000
+allocation: 300.000000
+available: 500.000000
+need: 900.000000
+
+going to run safety check now...
+Order: 1 2 3 
+loan denied
+
+*APPROVED*
+Teller: How may I help you? > st
+REQUEST: ST
+  Available = [  1500.00 1000.00  500.00]
+ Allocation = [     0.00    0.00    0.00] [   200.00  300.00    0.00] [   300.00    0.00    0.00] [     0.00    0.00    0.00] [     0.00    0.00    0.00]
+        Max = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+       Need = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+Teller: How may I help you? > q
+REQUEST: Q
+  Available = [  1500.00 1000.00  500.00]
+ Allocation = [     0.00    0.00    0.00] [   200.00  300.00    0.00] [   300.00    0.00    0.00] [     0.00    0.00    0.00] [     0.00    0.00    0.00]
+        Max = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+       Need = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+]0;shillyshaly@HAL9000: /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build[01;32mshillyshaly@HAL9000[00m:[01;34m/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build[00m$ ./bin/solvency ../in.txt make[Ksudo cmake ..exit[K./bin/solvency ../in.txt make[Ksudo cmake .../bin/solvency  ../in.txt make[K./bin/solvency  ../in.txt [13Psudo cmake ..make[K./bin/solvency ../in.txt exit[Ksudo cmake ..make[K./bin/solvency ../in.txt [K./bin/solvency ../in.txt make[Ksudo cmake ..exit[K./bin/solvency ../in.txt make[Ksudo cmake .../bin/solvency  ../in.txt make[Ksudo cmake .../bin/solvency  in2.txt ls[K./bin/solvency  ../in2.txt [4Pnano ../CMakeLists[C[C[C[C[C[11Pin2.txtcat ../in.txt ls[K./bin/solvency  ../in.txt make [K[21@./bin/solvency  ../in.txt[Cls[Kcat ../in.txt [2Pnano in2.txt../CMakeLists.txt [4@./bin/solvency  ../in2[C[C[C[C[Cls[K./bin/solvency  in2.txt [11Psudo cmake ..make[K./bin/solvency  ../in.txt [13Psudo cmake ..make[K./bin/solvency ../in.txt exit[Ksudo cmake ..make[K./bin/solvency ../in.txt [Kexit
+exit
+
+Script done on 2021-10-18 21:42:04-07:00 [COMMAND_EXIT_CODE="1"]

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/solvency.dir/src/arrays.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/arrays.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/arrays.c"
+},
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/solvency.dir/src/bank.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/bank.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/bank.c"
+},
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/build",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/solvency.dir/src/solvency.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/solvency.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab08/solvency/src/solvency.c"
+}
+]
