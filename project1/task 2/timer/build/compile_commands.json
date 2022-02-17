@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 2/timer/build",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64   -std=gnu11 -o CMakeFiles/timer_posix.dir/timer_posix.c.o   -c \"/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 2/timer/timer_posix.c\"",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 2/timer/timer_posix.c"
+}
+]

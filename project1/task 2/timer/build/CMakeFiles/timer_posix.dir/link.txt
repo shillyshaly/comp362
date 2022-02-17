@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64   CMakeFiles/timer_posix.dir/timer_posix.c.o  -o bin/timer_posix  -lrt 
