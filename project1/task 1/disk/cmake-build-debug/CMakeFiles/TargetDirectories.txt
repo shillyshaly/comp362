@@ -1,0 +1,4 @@
+/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 1/disk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 1/disk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 1/disk/cmake-build-debug/CMakeFiles/disk_timer.dir
+/mnt/c/Users/litox/Documents/School/comp362/LAB/project 1/task 1/disk/cmake-build-debug/CMakeFiles/disk.dir
