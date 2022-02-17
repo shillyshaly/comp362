@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/inc/inverted.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/src/inverted.c
+../inc/inverted.h
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/inc/inverted.h
+
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/src/testInverted.c
+../inc/inverted.h
+/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/inc/inverted.h
+

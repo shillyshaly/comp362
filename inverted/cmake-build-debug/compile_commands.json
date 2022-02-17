@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/inc   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/inverted.dir/src/inverted.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/src/inverted.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/src/inverted.c"
+},
+{
+  "directory": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/cmake-build-debug",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/inc   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/inverted.dir/src/testInverted.c.o   -c /mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/src/testInverted.c",
+  "file": "/mnt/c/Users/litox/Documents/School/comp362/LAB/HJLab09/inverted/src/testInverted.c"
+}
+]
